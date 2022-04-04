@@ -95,7 +95,9 @@ También se va a evaluar _como_ la solución presentada resuelve cada problema.
 
 ### Empezando a trabajar
 
-Para empezar crear un fork de este repositorio para implementar el desafío.
+Para empezar el backend, crear un fork de este repositorio para implementar el desafío.
+
+Para el frontend, crear un nuevo proyecto en tu cuenta de github.
 
 Adjuntar cualquier documentación al proyecto en forma de archivos con extensión `.md`.
 
@@ -103,7 +105,7 @@ Se recomienda ir haciendo commits a medida que se avanza con la solución. Agrup
 
 ### Contruyendo el proyecto
 
-El proyecto incluye un pom.xml que permite construir un paquete jar utilizando [Maven](http://maven.apache.org). Simplemente corriendo `mvn package` descargará todas las dependencias necesarias y construirá un paquete jar estándar.
+El proyecto backend incluye un pom.xml que permite construir un paquete jar utilizando [Maven](http://maven.apache.org). Simplemente corriendo `mvn package` descargará todas las dependencias necesarias y construirá un paquete jar estándar.
 
 ### Manejando la base de datos
 
@@ -111,6 +113,6 @@ Se provee en la carpeta `src/main/resources/db` scripts de creación de tablas p
 
 ## Enviando tu código para evaluación
 
-Luego al finalizar enviar un email con el link al fork a la persona que te envió este test.
+Luego al finalizar enviar un email con el link al fork y el enlace al proyecto frontend a la persona que te envió este test.
 
 ¡Buena suerte! 🎉
